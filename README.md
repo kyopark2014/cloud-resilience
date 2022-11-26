@@ -1,6 +1,6 @@
 # Resilience of Cloud Architecture
 
-## Resience
+## Resience 란
 
 ####  Resiliency is Critical
 It affects the quality of service your users experience
@@ -20,3 +20,19 @@ How many sites, how many data copies - drives cost in multiples (2x, 3x,…)
 Need to meet the same business objectives of availability and recovery
 
 There are better ways to provide continuity in the cloud – Use them!
+
+## Reliability를 증가시키는 Design Principles
+
+- Automaticallyrecoverfromfailure
+
+- Testrecoveryprocedures
+
+- Scalehorizontallytoincreaseaggregateworkloadavailability
+
+- Stopguessingcapacity
+
+- Manage change in automation
+
+## Availability 
+
+
