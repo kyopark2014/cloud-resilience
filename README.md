@@ -46,6 +46,7 @@ Availability(가용성)이란 워크로드(Workload)가 사용할수 있는 상�
 
 ## RTO / RPO
 
-<img src="https://user-images.githubusercontent.com/52392004/204071127-f533b9c7-2efe-4327-82bd-03d9c30e23c0.png" width="800">
+<img src="https://user-images.githubusercontent.com/52392004/204071167-16e3354e-c3e1-4c94-be12-67ecb0db32f3.png" width="800">
+
 
 
