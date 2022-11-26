@@ -35,4 +35,7 @@ There are better ways to provide continuity in the cloud – Use them!
 
 ## Availability 
 
+Availability(가용성)이란 워크로드(Workload)가 사용할수 있는 상태인 시간의 퍼센트입니다. 
 
+
+<img src="https://user-images.githubusercontent.com/52392004/204070697-ddb1e4a1-ba6d-40fe-83d4-3a56fde8887a.png" width="200">
