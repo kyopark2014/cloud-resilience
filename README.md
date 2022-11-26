@@ -78,11 +78,19 @@ Client의 Request는 SQS와 같은 Queue에 저장되고, EC2중 한개가 문�
 
 - Backup & Restore
 
-![image](https://user-images.githubusercontent.com/52392004/204072139-e101ed9e-83ea-414d-b065-c1995046f6ee.png)
+![image](https://user-images.githubusercontent.com/52392004/204072175-c4af3c67-f10f-480c-905e-b32f466de30e.png)
 
 - Pilot light
  
-![image](https://user-images.githubusercontent.com/52392004/204072153-1b322d86-ec44-404b-90fc-d41e8b37ce02.png)
+![image](https://user-images.githubusercontent.com/52392004/204072170-193c0529-1964-4a01-b87e-bbeb0bc11f50.png)
+
+- Warm standby
+
+![image](https://user-images.githubusercontent.com/52392004/204072180-f1755b30-1061-4d71-9b46-9b11417d409c.png)
+
+- Multi-site
+
+![image](https://user-images.githubusercontent.com/52392004/204072188-819bbc25-ee87-4299-8610-f44c0c59a3e8.png)
 
 
 ## Reference
