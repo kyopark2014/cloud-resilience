@@ -1,6 +1,6 @@
 # Resilience of Cloud Architecture
 
-## Resience 란
+## Resience 개요 
 
 서비스의 품질은 사용자의 경험에 중요하므로 Resilience는 중요하고 end-to-end 동작이므로 복잡합니다. Resilience를 높이기 위해서는 서버의 숫자를 늘리거나, 더 많이 데이터를 복재해야 하므로 비용이 중요한 요소입니다. 
 
