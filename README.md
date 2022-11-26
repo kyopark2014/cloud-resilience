@@ -65,4 +65,6 @@ Availability(가용성)이란 워크로드(Workload)가 사용할수 있는 상�
 <img src="https://user-images.githubusercontent.com/52392004/204071167-16e3354e-c3e1-4c94-be12-67ecb0db32f3.png" width="600">
 
 
+## Reference
 
+[Reliability Pillar - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/welcome.html)
