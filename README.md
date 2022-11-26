@@ -44,7 +44,17 @@ Availability(가용성)이란 워크로드(Workload)가 사용할수 있는 상�
 
 <img src="https://user-images.githubusercontent.com/52392004/204070831-ebfcf504-153d-4a86-9e50-3fe9a07b9154.png" width="800">
 
-## RTO / RPO
+## Business continuity
+
+- How much data can you afford to recreate or lose?
+- How quickly must you recover? 
+- What is the cost of downtime?
+
+
+ 
+- RTO: Recovery time
+- RPO: Recovery point
+
 
 <img src="https://user-images.githubusercontent.com/52392004/204071167-16e3354e-c3e1-4c94-be12-67ecb0db32f3.png" width="600">
 
