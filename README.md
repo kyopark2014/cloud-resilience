@@ -76,9 +76,13 @@ Client의 Request는 SQS와 같은 Queue에 저장되고, EC2중 한개가 문�
 
 ### Standard Patterns and Reference Architectures for DR
 
-#### Backup & Restore
+- Backup & Restore
 
-![image](https://user-images.githubusercontent.com/52392004/204072110-57f31c2d-6cdf-4001-bb77-4b8fe27ac9c5.png)
+![image](https://user-images.githubusercontent.com/52392004/204072139-e101ed9e-83ea-414d-b065-c1995046f6ee.png)
+
+- Pilot light
+ 
+![image](https://user-images.githubusercontent.com/52392004/204072153-1b322d86-ec44-404b-90fc-d41e8b37ce02.png)
 
 
 ## Reference
