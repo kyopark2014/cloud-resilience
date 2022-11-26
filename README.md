@@ -43,3 +43,9 @@ Availability(가용성)이란 워크로드(Workload)가 사용할수 있는 상�
 아래에서 Maximum unavailability는  maximum duration of outages 입니다. 
 
 <img src="https://user-images.githubusercontent.com/52392004/204070831-ebfcf504-153d-4a86-9e50-3fe9a07b9154.png" width="800">
+
+## RTO / RPO
+
+<img src="https://user-images.githubusercontent.com/52392004/204071127-f533b9c7-2efe-4327-82bd-03d9c30e23c0.png" width="800">
+
+
