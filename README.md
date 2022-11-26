@@ -40,4 +40,5 @@ Availability(가용성)이란 워크로드(Workload)가 사용할수 있는 상�
 
 <img src="https://user-images.githubusercontent.com/52392004/204070697-ddb1e4a1-ba6d-40fe-83d4-3a56fde8887a.png" width="400">
 
-![noname](https://user-images.githubusercontent.com/52392004/204070831-ebfcf504-153d-4a86-9e50-3fe9a07b9154.png)
+
+<img src="https://user-images.githubusercontent.com/52392004/204070831-ebfcf504-153d-4a86-9e50-3fe9a07b9154.png" width="600">
