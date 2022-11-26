@@ -4,18 +4,7 @@
 
 서비스의 품질은 사용자의 경험에 중요하므로 Resilience는 중요하고 end-to-end 동작이므로 복잡합니다. Resilience를 높이기 위해서는 서버의 숫자를 늘리거나, 더 많이 데이터를 복재해야 하므로 비용이 중요한 요소입니다. 
 
-## Reliability를 증가시키는 Design Principles
 
-
-- Automaticallyrecoverfromfailure
-
-- Testrecoveryprocedures
-
-- Scalehorizontallytoincreaseaggregateworkloadavailability
-
-- Stopguessingcapacity
-
-- Manage change in automation
 
 ## Availability 
 
@@ -28,7 +17,22 @@ Availability(가용성)이란 워크로드(Workload)가 사용할수 있는 상�
 
 <img src="https://user-images.githubusercontent.com/52392004/204070831-ebfcf504-153d-4a86-9e50-3fe9a07b9154.png" width="800">
 
-## loosly coupled dependencies
+## Design Patterns 
+
+### Reliability를 증가시키는 Design Principles
+
+
+- Automaticallyrecoverfromfailure
+
+- Testrecoveryprocedures
+
+- Scalehorizontallytoincreaseaggregateworkloadavailability
+
+- Stopguessingcapacity
+
+- Manage change in automation
+
+### Loosly Coupled Architecture 
 
 - Tight coupling (Synchronous)
 
