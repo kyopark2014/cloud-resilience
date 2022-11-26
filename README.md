@@ -44,20 +44,22 @@ Availability(가용성)이란 워크로드(Workload)가 사용할수 있는 상�
 
 <img src="https://user-images.githubusercontent.com/52392004/204070831-ebfcf504-153d-4a86-9e50-3fe9a07b9154.png" width="800">
 
-## Business continuity
 
-얼마나 
-얼마나 많
+## Disaster Recovery (DR)
 
+### Business continuity
 
-- How much data can you afford to recreate or lose?
-- How quickly must you recover? 
-- What is the cost of downtime?
+- 얼마나 많은 데이터가 새로 생성되거나 일어버렸나? (How much data can you afford to recreate or lose?)
 
+- 얼마나 빨리 복구되었나? (How quickly must you recover?)
 
+- 다운타임 동안에 발생한 비용이 무엇인가? (What is the cost of downtime?)
+
+### RTO와 RPO
  
-- RTO: Recovery time
-- RPO: Recovery point
+- RTO (Recovery time): 최대로 받아들일수 있는 지연 시간 (the maximum acceptable delay between the interruption of service and restoration of service)
+
+- RPO (Recovery Point Objective): 최대로 받아들일수 있는 복구 시간 (the maximum acceptable amount of time since the last data recovery point)
 
 
 <img src="https://user-images.githubusercontent.com/52392004/204071167-16e3354e-c3e1-4c94-be12-67ecb0db32f3.png" width="600">
