@@ -2,26 +2,10 @@
 
 ## Resience 란
 
-####  Resiliency is Critical
-It affects the quality of service your users experience
-
-#### Resiliency is Complex
-
-Like security, it is an end-to-end discipline that must be built in 
-
-Cannot be bolted on later as an after thought
-
-#### Resiliency is a key Cost driver
-
-How many sites, how many data copies - drives cost in multiples (2x, 3x,…)
-
-#### Resiliency in the cloud need not be the same as traditional IT
-
-Need to meet the same business objectives of availability and recovery
-
-There are better ways to provide continuity in the cloud – Use them!
+서비스의 품질은 사용자의 경험에 중요하므로 Resilience는 중요하고 end-to-end 동작이므로 복잡합니다. Resilience를 높이기 위해서는 서버의 숫자를 늘리거나, 더 많이 데이터를 복재해야 하므로 비용이 중요한 요소입니다. 
 
 ## Reliability를 증가시키는 Design Principles
+
 
 - Automaticallyrecoverfromfailure
 
