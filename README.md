@@ -46,6 +46,10 @@ Availability(가용성)이란 워크로드(Workload)가 사용할수 있는 상�
 
 ## Business continuity
 
+얼마나 
+얼마나 많
+
+
 - How much data can you afford to recreate or lose?
 - How quickly must you recover? 
 - What is the cost of downtime?
